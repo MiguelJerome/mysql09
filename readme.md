@@ -4,23 +4,23 @@
  
 ### Project Mock-up 
  
-* [Laboratoire09](https://ord15990.gitlab.io/notes-de-cours/module-8/laboratoire-join) 
+* [Laboratoire09](https://ord15990.gitlab.io/notes-de-cours/module-9/laboratoire-group) 
 ### Current Project State 
  
-* [Project-state](https://github.com/MiguelJerome/mysqlLab08/issues) 
+* [Project-state](https://github.com/MiguelJerome/mysql09/issues) 
  
 ### Project Resources 
 * mysql
-        - [northwind](northwind.sql)
+        - [northwind](/northwind.sql)
 * mysql
-        - [northwind-data](northwind-data.sql)
+        - [northwind-data](/northwind-data.sql)
 * mysql
         - [solution](/solution%20(4).sql)
-* LAB08
-        - [lab08]()        
+* LAB09
+        - [lab09](/mysql09.sql)        
  
   
 ## Link for my main for all the ressources
   
-You can have access to the resources of my Laboratoire 8 - Recherche de données website [this is the 
-link](https://github.com/MiguelJerome/mysqlLab08) 
+You can have access to the resources of my Laboratoire 9 - Jointures website [this is the 
+link](https://github.com/MiguelJerome/mysql09) 
